@@ -1,7 +1,7 @@
 # Calculadora
 ----------------------------------------------------------------------
  Universidad Autónoma de San Luis Potosí
-                Facultad de Ingeniería
+ Facultad de Ingeniería
                 
           Ingeniería en Sistemas Inteligentes
           Interfaces Gráficas con Aplicaciones
